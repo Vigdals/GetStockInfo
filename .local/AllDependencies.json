@@ -5973,8 +5973,8 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "UiPath_REFrameWork",
-      "projectName": "UiPath_REFrameWork",
+      "projectUniqueName": "GetStockInfo",
+      "projectName": "GetStockInfo",
       "projectPath": "C:\\Users\\V150103\\OneDrive - NAV\\Documents\\UiPath\\GetStockInfo\\.local",
       "packagesPath": "C:\\Users\\V150103\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\V150103\\OneDrive - NAV\\Documents\\UiPath\\GetStockInfo\\.local"
