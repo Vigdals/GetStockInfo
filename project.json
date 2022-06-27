@@ -3,8 +3,9 @@
   "description": "UiPath REFramework Template",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "18.3.6877.28276",
-    "UiPath.UIAutomation.Activities": "19.10.1"
+    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.System.Activities": "22.4.1",
+    "UiPath.UIAutomation.Activities": "22.4.6"
   },
   "webServices": [],
   "entitiesStores": [],
